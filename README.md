@@ -1,4 +1,4 @@
-## Hi there, I'm Tram 👋
+## Hi there, I'm Tram 🦄
 
 - 💻 I'm a full stack web developer in training with experience in HTML, CSS, JavaScript, PHP, SQL and Java
 - 🌱 I’m currently learning React and Node.js  
